@@ -17,3 +17,6 @@ git checkout -b name of branch
 git push origin branch_1
 
 # git push origin branch_1 [optional]
+
+4. when pulling from a new branch:
+git pull origin name of branch
