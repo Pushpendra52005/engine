@@ -15,3 +15,5 @@ git checkout -b name of branch
 
 3. when pushing to new branch write:
 git push origin branch_1
+
+# git push origin branch_1 [optional]
